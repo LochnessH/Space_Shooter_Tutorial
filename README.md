@@ -1,2 +1,2 @@
 # Space_Shooter_Tutorial
-Simple Asteroid game made with Unity
+The repository contains the scripts which define classes for a simple Asteroid game made with Unity. Coded in C#.
